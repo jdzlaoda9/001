@@ -1,0 +1,17 @@
+
+https://gitlab.com/sslav/xray-for-nodejs
+
+
+
+
+
+
+协议：Vmess / Vless / Trojan / Shadowsocks
+地址：eu1.odd.gay
+端口：分配到的端口
+UUID/密码：自动生成或设置的uuid变量内容
+额外ID：0
+Shadowsocks加密方式：chacha20-ietf-poly1305
+传输协议：ws
+伪装域名：eu1.odd.gay
+路径：/vmess（/vless、/trojan、/shadowsocks）或设置的VMESS_WSPATH（VLESS_WSPATH、TROJAN_WSPATH、SS_WSPATH）变量内容
